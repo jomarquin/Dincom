@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Dincom</string>
+    <string name="busqueda">Búsqueda...</string>
+    <string name="buscar">Buscar</string>
+    <string name="tutoriales">Tutoriales</string>
+    <string name="listado_de_terminos">Listado de Términos</string>
+    <string name="salir_de_la_aplicacion">Salir de la Aplicación</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="listado_de_palabras">Listado de Palabras</string>
+    <string name="definicion">Definición</string>
 </resources>
